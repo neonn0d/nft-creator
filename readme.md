@@ -5,9 +5,6 @@
 
   * [Pillow](https://pillow.readthedocs.io/en/stable/)
   * [numpy](http://www.numpy.org/)
-
-  <b>Optional:</b>
-
   * [OpenCV](https://opencv.org/)
 
 You can use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies.
